@@ -25,14 +25,8 @@ pip install numpy matplotlib
 
 ## Запуск
 
-### Способ 1: Прямой запуск
 ```bash
 python main.py
-```
-
-### Способ 2: Через bat-файл (Windows)
-```bash
-run.bat
 ```
 
 ## Входные параметры
